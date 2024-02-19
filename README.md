@@ -13,7 +13,7 @@ More information can be found in the [project report](https://docs.google.com/sp
 Link to the [data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b), which was provided by CareerFoundry.
 
 ## Objectives of the Project and Key Questions
-Instacart,an online grocery store, has very good sales, but they want to uncover more information about their sales patterns. I will perform an initial data and exploratory analysis of some of the company's data in order to derive insights and suggest strategies for better segmentation based on the criteria provided by the Instacart stakeholders.
+Instacart, an online grocery store, has very good sales, but they want to uncover more information about their sales patterns. I will perform an initial data and exploratory analysis of some of the company's data in order to derive insights and suggest strategies for better segmentation based on the criteria provided by the Instacart stakeholders.
 
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They would like to see the following questions answered:
 * The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
